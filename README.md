@@ -1,4 +1,4 @@
-# Udemy_Project-1
+# Project-Guess-my-Number
 JavaScript in the Browser - DOM and Events Fundamentals / Guess My Numebr ! 
 
 
